@@ -1,0 +1,11 @@
+body{
+    background-image:url("https://tatilopatiuk.home.blog/wp-content/uploads/2020/01/van-gogh-amendoeira-em-flor-noticias.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+a{text-decoration: none;}
+a:hover{
+    text-decoration: overline;
+}
+li{list-style: none;}
